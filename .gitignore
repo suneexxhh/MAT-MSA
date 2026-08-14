@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+mat/scripts/logs/
+mat/scripts/results/
+mat/scripts/nohup.out
+wandb/
